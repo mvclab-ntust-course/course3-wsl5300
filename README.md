@@ -2,15 +2,13 @@
 
 # Homework3 - Train LoRA & generate images
 
-#### 本次作業獲得Irene大大的幫助!
-</br></br>
+#### 本次作業獲得Irene大大的幫助!</br>
 
 ## (1/2)Train LoRA
 * 我選擇的資料集總覽：
   <div align=center><img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/images/CleanShot%202024-05-16%20at%2000.41.48%402x.png" width=600></div>
   </br>
-##### 在[LoRA-report](https://docs.google.com/document/d/1JNP28hvgi8iLeNHfedGLjFqZSJkl3RY3_JSAMlUnYhU/edit?usp=share_link) 提及完成LoRA訓練的過程並得到[Haikyu7-20.safetensors](https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/Haikyu7-20.safetensors)，因此不過多贅述
-</br></br>
+##### 在[LoRA-report](https://docs.google.com/document/d/1JNP28hvgi8iLeNHfedGLjFqZSJkl3RY3_JSAMlUnYhU/edit?usp=share_link) 提及完成LoRA訓練的過程並得到[Haikyu7-20.safetensors](https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/Haikyu7-20.safetensors)，因此不過多贅述</br></br>
 
 ## (2/2)generate images
 
@@ -23,8 +21,7 @@
   * 呈現如下圖</br>
   <div align=center><img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/images/CleanShot%202024-05-16%20at%2000.14.44%402x.png" width=400></div>
   </br>
-  * 放入自己訓練的lora!
-</br></br>
+  放入自己訓練的lora!</br></br>
 
 * generate image
   * 參數設置：
