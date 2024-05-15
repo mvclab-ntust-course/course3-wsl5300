@@ -19,7 +19,7 @@
   * 將 `Haikyu7-20.safetensors` 放入 `../stable-diffsion-webui/models/lora/` 中。
   * 在`stable-diffsion-webui/` terminal 執行 `./webui.sh --autolaunch`
   * 呈現如下圖</br>
-  <div align=center><img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/images/CleanShot%202024-05-16%20at%2000.14.44%402x.png" width=400></div>
+  <img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/images/CleanShot%202024-05-16%20at%2000.14.44%402x.png" width=600>
   </br>
   放入自己訓練的lora!</br></br>
 
@@ -30,7 +30,7 @@
     * prompt: `haiku, walking, happy`
     * 以下為產生的圖片：
 <div align=center>
-  <img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/output.png" width=250>
+  <img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/output.png" width=300>
 </div>
 
 
