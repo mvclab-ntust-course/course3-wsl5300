@@ -2,27 +2,31 @@
 
 # Homework3 - Train LoRA & generate images
 
-#### 本次作業獲得Irene的幫助 >< ～</br></br></br>
+#### 本次作業獲得Irene大大的幫助!
+</br></br></br></br>
 
 ## (1/2)Train LoRA
 * 我選擇的資料集總覽：
   <div align=center><img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/images/CleanShot%202024-05-16%20at%2000.41.48%402x.png" width=600></div>
   </br>
-##### 在[LoRA-report.pdf](https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/LoRA%20-%20report.pdf) 完成LoRA訓練並得到[Haikyu7-20.safetensors](https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/Haikyu7-20.safetensors)，不過多贅述</br></br></br></br>
+##### 在[LoRA-report](https://docs.google.com/document/d/1JNP28hvgi8iLeNHfedGLjFqZSJkl3RY3_JSAMlUnYhU/edit?usp=share_link) 提及完成LoRA訓練的過程並得到[Haikyu7-20.safetensors](https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/Haikyu7-20.safetensors)，因此不過多贅述
+</br></br></br></br>
 
 ## (2/2)generate images
 
-### 安裝stable diffusion webui.
+#### 安裝stable diffusion webui.
 * 我是參考影片安裝stable-diffusion-webui：
 [在Mac上安裝Stable Diffusion WebUI繪圖軟體](https://www.youtube.com/watch?v=clrx1PQgcVs)
 
 * 將 `Haikyu7-20.safetensors` 放入 `../stable-diffsion-webui/models/lora/` 中。
 * 在`stable-diffsion-webui/` terminal 執行 `./webui.sh --autolaunch`
-* 呈現<div align=center><img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/images/CleanShot%202024-05-16%20at%2000.14.44%402x.png" width=400></div>
+* 呈現如下圖</br>
+  <div align=center><img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/images/CleanShot%202024-05-16%20at%2000.14.44%402x.png" width=400></div>
+  </br>
 * 放入自己訓練的lora!
 </br></br></br></br>
 
-### 產生效果圖：
+#### generate image
 * 參數設置：
   * Sampling steps: `100`
   * CFG Scale: `18.5`
