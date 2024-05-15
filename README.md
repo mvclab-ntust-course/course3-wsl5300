@@ -12,7 +12,7 @@
 
 ## (2/2)generate images
 
-* _install_ _stable_ _diffusion_ _webui._
+* __install__ __stable__ __diffusion__ __webui.__
   * 我是參考影片安裝stable-diffusion-webui：
 [在Mac上安裝Stable Diffusion WebUI繪圖軟體](https://www.youtube.com/watch?v=clrx1PQgcVs)
 
@@ -23,7 +23,7 @@
   </br>
   放入自己訓練的lora!</br></br>
 
-* _generate_ _image_
+* __generate__ __image__
   * config：
     * Sampling steps: `100`
     * CFG Scale: `18.5`
