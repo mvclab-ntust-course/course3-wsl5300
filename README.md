@@ -8,7 +8,7 @@
 * 我選擇的資料集總覽：
   <div align=center><img src="https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/images/CleanShot%202024-05-16%20at%2000.41.48%402x.png" width=600></div>
   </br>
-##### 在[LoRA-report.pdf](https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/LoRA%20-%20report.pdf) 完成LoRA訓練並得到[Haikyu7-20.safetensors](https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/Haikyu7-20.safetensors)</br></br></br></br>
+##### 在[LoRA-report.pdf](https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/LoRA%20-%20report.pdf) 完成LoRA訓練並得到[Haikyu7-20.safetensors](https://github.com/mvclab-ntust-course/course3-wsl5300/blob/main/Haikyu7-20.safetensors)，不過多贅述</br></br></br></br>
 
 ## (2/2)generate images
 
